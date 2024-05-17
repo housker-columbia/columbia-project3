@@ -68,6 +68,11 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/columbia-project3/posts/24-05-17/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="no"
                 href="https://housker.github.io/columbia-project3/no/posts/24-05-17/"
                 />

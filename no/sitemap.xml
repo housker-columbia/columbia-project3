@@ -8,6 +8,11 @@
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/columbia-project3/posts/24-05-17/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/columbia-project3/fr/posts/24-05-17/"
                 />
