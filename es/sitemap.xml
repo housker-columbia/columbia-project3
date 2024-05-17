@@ -43,11 +43,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://housker.github.io/columbia-project3/ar/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/columbia-project3/fr/posts/"
                 />
@@ -55,6 +50,11 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://housker.github.io/columbia-project3/no/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/columbia-project3/ar/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,11 +80,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="https://housker.github.io/columbia-project3/fr/posts/24-05-17/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://housker.github.io/columbia-project3/ar/posts/24-05-17/"
                 />
     <xhtml:link
                 rel="alternate"

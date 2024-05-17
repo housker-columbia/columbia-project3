@@ -53,11 +53,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ar"
-                href="https://housker.github.io/columbia-project3/ar/posts/24-05-17/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/columbia-project3/posts/24-05-17/"
                 />
@@ -66,11 +61,6 @@
     <lastmod>2024-05-17T09:46:14-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://housker.github.io/columbia-project3/ar/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -85,6 +75,11 @@
                 rel="alternate"
                 hreflang="no"
                 href="https://housker.github.io/columbia-project3/no/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/columbia-project3/ar/posts/"
                 />
     <xhtml:link
                 rel="alternate"
