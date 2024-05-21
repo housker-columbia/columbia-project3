@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://housker.github.io/columbia-project3/</loc>
-    <lastmod>2024-05-17T09:46:14-10:00</lastmod>
+    <lastmod>2024-05-20T14:15:40-10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -30,6 +30,66 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/columbia-project3/"
+                />
+  </url><url>
+    <loc>https://housker.github.io/columbia-project3/posts/24-05-20/</loc>
+    <lastmod>2024-05-20T14:15:40-10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/columbia-project3/no/posts/24-05-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://housker.github.io/columbia-project3/fr/posts/24-05-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/columbia-project3/es/posts/24-05-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/columbia-project3/ar/posts/24-05-20/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/columbia-project3/posts/24-05-20/"
+                />
+  </url><url>
+    <loc>https://housker.github.io/columbia-project3/posts/</loc>
+    <lastmod>2024-05-20T14:15:40-10:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ar"
+                href="https://housker.github.io/columbia-project3/ar/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://housker.github.io/columbia-project3/es/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://housker.github.io/columbia-project3/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="no"
+                href="https://housker.github.io/columbia-project3/no/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://housker.github.io/columbia-project3/posts/"
                 />
   </url><url>
     <loc>https://housker.github.io/columbia-project3/posts/24-05-17/</loc>
@@ -60,36 +120,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://housker.github.io/columbia-project3/posts/24-05-17/"
-                />
-  </url><url>
-    <loc>https://housker.github.io/columbia-project3/posts/</loc>
-    <lastmod>2024-05-17T09:46:14-10:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="https://housker.github.io/columbia-project3/ar/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://housker.github.io/columbia-project3/es/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://housker.github.io/columbia-project3/fr/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="no"
-                href="https://housker.github.io/columbia-project3/no/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://housker.github.io/columbia-project3/posts/"
                 />
   </url><url>
     <loc>https://housker.github.io/columbia-project3/posts/24-05-16/</loc>
